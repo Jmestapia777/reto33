@@ -1,0 +1,7 @@
+{
+  "name": "RETO33 SD",
+  "description": "Plataforma de participación ciudadana, encuestas, premios y comunidad juvenil para Santo Domingo y La Concordia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
